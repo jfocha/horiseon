@@ -135,7 +135,7 @@ p {
     max-width: 150px;
 }
 
-.skills {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -162,7 +162,7 @@ p {
     color: #ffffff;
 } */
 
-.skills img {
+article img {
     max-height: 200px;
 }
 
@@ -174,7 +174,7 @@ p {
     max-height: 200px;
 } */
 
-.skills h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -189,13 +189,13 @@ p {
     font-size: 36px;
 }
  */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
